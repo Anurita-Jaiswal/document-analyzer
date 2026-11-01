@@ -4,6 +4,8 @@ A production-grade, Retrieval-Augmented Generation (RAG) based document intellig
 
 Designed according to the technical blueprint for the **Software Development Engineer (SDE) Intern** project milestone report.
 
+**Author**: Anurita Jaiswal (@Anurita-Jaiswal)
+
 ---
 
 ## 🌟 Key Features
